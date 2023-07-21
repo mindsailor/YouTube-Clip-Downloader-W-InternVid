@@ -5,7 +5,7 @@ YouTube-Clip-Downloader-W-InternVid
 YouTube Clip Downloader with InternVid Dataset Support
 This Python script allows you to download video clips from YouTube using the "yt-dlp" library and the "InternVid-10M-FLT" dataset, a subset of the larger "InternVid" dataset. The script extracts frame-level information and saves the data in a structured JSON format for further analysis or use in other applications.
 
-Dataset Information
+Dataset Information https://huggingface.co/datasets/OpenGVLab/InternVid/
 The caption file for the InternVid dataset can be found at Hugging Face Datasets - OpenGVLab/InternVid.
 
 
