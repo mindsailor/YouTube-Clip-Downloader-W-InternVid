@@ -1,3 +1,5 @@
+Code Currently runs out of ram and is super buggy.  
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mindsailor/YouTube-Clip-Downloader-W-InternVid/blob/main/YouTubeClipDownloader.ipynb)
 
 
