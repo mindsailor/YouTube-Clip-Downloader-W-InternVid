@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mindsailor/YouTube-Clip-Downloader-W-InternVid/blob/main/YouTubeClipDownloader.ipynb)
+
 
 YouTube-Clip-Downloader-W-InternVid
 YouTube Clip Downloader with InternVid Dataset Support
