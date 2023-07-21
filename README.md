@@ -11,6 +11,10 @@ The caption file for the InternVid dataset can be found at Hugging Face Datasets
 
 
 
+
+
+
+
 Key Features
 Download Video Clips: The script uses "yt-dlp" to download video clips from YouTube using their video IDs and timestamps provided in the JSONL file.
 
@@ -23,6 +27,14 @@ Frame Count: The script calculates the number of frames in each downloaded video
 Filename Formatting: The script formats the output filename for each downloaded video clip by concatenating the YouTube video ID and a truncated version of the caption.
 
 JSON Output: The script generates a JSON output file containing metadata for each downloaded video clip, including video path, number of frames, and frame-level information with frame index and full caption.
+
+
+
+
+
+
+
+
 
 
 
